@@ -1,7 +1,9 @@
 # Invisibility-cloak
 -> This code helps you to understand the invisibilty cloak which basically uses color segmentation 
    and a bit of image processing to replace the foreground object of interest with the background.
+   
 -> You just need to take a unicolor cloth and apply color segmentation on it. 
+
 -> After that take a picture of the background and place the cloth on yourself to virtually disappear.
 
 # Code Requirements :
