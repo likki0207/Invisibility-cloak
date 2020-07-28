@@ -21,6 +21,7 @@ To install the numpy package use the following command:
 
 # Steps to Build this project:
 (1) At first we will be importing the required packages
+
 (2) Open the inbuilt Camera
 
 (3) Now we will capture the frames from the camera
