@@ -6,7 +6,7 @@ import numpy as np
 
 #in this we are replacing the red colored pixels with the background pixels to create the 
 #invisible effect in the video. 
-cam = cv2.VideoCapture(cv2.CAP_V4L2)
+cap = cv2.VideoCapture(cv2.CAP_V4L2)
 #For doing this, we have to store the background image for each frame.
 #cap=cv2.VideoCapture(CAP_V4L2)
 
